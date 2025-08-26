@@ -1,0 +1,14 @@
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\bin\Debug\net8.0\UserApi.Core.deps.json
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\bin\Debug\net8.0\UserApi.Core.runtimeconfig.json
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\bin\Debug\net8.0\UserApi.Core.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\bin\Debug\net8.0\UserApi.Core.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.csproj.AssemblyReference.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.AssemblyInfoInputs.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.AssemblyInfo.cs
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.csproj.CoreCompileInputs.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\refint\UserApi.Core.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\UserApi.Core.genruntimeconfig.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Core\obj\Debug\net8.0\ref\UserApi.Core.dll

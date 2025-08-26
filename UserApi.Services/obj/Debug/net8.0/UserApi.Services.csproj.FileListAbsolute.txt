@@ -1,0 +1,15 @@
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\bin\Debug\net8.0\UserApi.Services.deps.json
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\bin\Debug\net8.0\UserApi.Services.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\bin\Debug\net8.0\UserApi.Services.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\bin\Debug\net8.0\UserApi.Core.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\bin\Debug\net8.0\UserApi.Core.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.csproj.AssemblyReference.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.AssemblyInfoInputs.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.AssemblyInfo.cs
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.csproj.CoreCompileInputs.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi..9E48F7DB.Up2Date
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\refint\UserApi.Services.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\UserApi.Services.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Services\obj\Debug\net8.0\ref\UserApi.Services.dll

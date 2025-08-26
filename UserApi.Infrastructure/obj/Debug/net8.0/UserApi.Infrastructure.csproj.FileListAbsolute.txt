@@ -1,0 +1,15 @@
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\bin\Debug\net8.0\UserApi.Infrastructure.deps.json
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\bin\Debug\net8.0\UserApi.Infrastructure.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\bin\Debug\net8.0\UserApi.Infrastructure.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\bin\Debug\net8.0\UserApi.Core.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\bin\Debug\net8.0\UserApi.Core.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.AssemblyInfo.cs
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi..B7A9E136.Up2Date
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\refint\UserApi.Infrastructure.dll
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\UserApi.Infrastructure.pdb
+C:\Ashok\Projects\Test\UserApi\UserApi.Infrastructure\obj\Debug\net8.0\ref\UserApi.Infrastructure.dll
